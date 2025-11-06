@@ -1,27 +1,57 @@
-# ☕ 🚀 New Project Alert: Maven Coffee Co. Dashboard
+# ☕ Maven Coffee Shop Sales Dashboard
+## 📊 Project Overview
 
-From a messy coffee-shop dataset to a clean, interactive dashboard — this project was all about transforming data into a story.
+This project analyzes coffee shop sales transactions to uncover key trends in customer behavior, product performance, and revenue patterns.
+The dataset contains detailed transaction-level information from multiple store locations, allowing the creation of insightful dashboards and visualizations in Power BI and SQL.
 
-### 🧰 Tools I used:
+## 🎯 Objectives
 
-Excel → initial data cleaning
+Analyze sales performance across store locations and time periods.
 
-SQL → deep data exploration
+Identify top-selling products and customer preferences.
 
-Power Query → smart data transformation
+Understand payment methods and their distribution.
 
-Power BI → building visuals and insights
+Explore average order values, peak hours, and seasonal trends.
 
-### 📊 Key Findings:
+## 📂 Dataset Description
 
-💵 Total Sales: $11K | 🧾 Quantity: 3K | 💰 Avg Sale: $4
+#### File: maven_like_coffee_shop.csv
+#### Rows: 3,000
+#### Columns: 13
 
-#### ☕ Coffee leads all product categories
+### Column Name	Description
+transaction_id  
+transaction_date  
+transaction_time  
+store_location  
+product_category  
+product_type  
+product_detail  
+Size  
+unit_price  
+quantity  
+total  
+payment_type  
+customer_id
 
-#### 📈 May showed the strongest performance
+## 🧠 Tools & Techniques
 
-#### 💳 Most customers prefer card payments
+#### Power BI → for interactive dashboard creation
 
-Through this project, I connected the entire data pipeline — from raw tables to visual storytelling that reveals clear business insights.
+#### SQL → for data exploration and analysis queries
 
-#DataAnalytics #PowerBI #PowerQuery #SQL #Excel #Dashboard #DataVisualization #DataAnalyst #MavenCoffee #LearningByDoing #VisualStorytelling
+#### Excel → for initial data cleaning (optional)
+
+### 💡 Key Insights
+
+#### ☕ Coffee category generated the highest total sales.
+
+#### 🕒 Peak sales hours occurred between 8 AM and 10 AM.
+
+# 👩‍💻 Author
+
+### FatimaZahraa Harrak 
+## 📧 Fatimaz.hk26@gmail.com
+
+## 🔗 www.linkedin.com/in/fatimazahraa-harrak-356510352
