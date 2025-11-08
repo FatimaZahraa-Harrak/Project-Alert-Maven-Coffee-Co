@@ -4,6 +4,8 @@
 This project analyzes coffee shop sales transactions to uncover key trends in customer behavior, product performance, and revenue patterns.
 The dataset contains detailed transaction-level information from multiple store locations, allowing the creation of insightful dashboards and visualizations in Power BI and SQL.
 
+![alt image](https://github.com/FatimaZahraa-Harrak/Project-Alert-Maven-Coffee-Co/blob/dfba4042bf4934545c4bcbd575eb142ef225f62d/dashboard_coffee.png)
+
 ## 🎯 Objectives
 
 Analyze sales performance across store locations and time periods.
